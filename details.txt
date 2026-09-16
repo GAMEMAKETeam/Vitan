@@ -1,0 +1,61 @@
+							WELCOME TO
+						       _____    
+					      \    / |   |     / \   |\  |
+					       \  /  |   |    /___\  | \ |
+						\/   |   |   /     \ |  \|
+
+                                                 your command line manager
+
+
+ - What is it?
+Vitan is a personal command and application launcher for Windows, inspired by classic tools like Win+R, but with a modern
+interface and customization. It's a small program that's always at hand and lets you launch anything with a single line.
+
+ - What's it about?
+The program lives in the background and appears when you press Alt+V as a compact floating panel on top of all windows. You
+type a command — it executes. No clicking through the Start menu, searching in Explorer, or switching between windows.
+
+Usage examples:
+- steam → launches Steam
+- site youtube → opens YouTube
+- site how's the weather in Abakan → googles the query
+- calc → runs a command with arguments (template from commands.json)
+- notepad → opens the file in the right program
+- list → shows all available commands
+- log → opens the window with application logs
+
+ - Why?
+1. Speed. Launch a program, website, or script in 1-2 seconds instead of 10-15 seconds of mouse searching.
+2. Centralization. All your tools in one place — commands and websites are stored in JSON files, easy to edit and add
+   new ones.
+3. Automation. Commands can have template parameters (`{x}`, `{y}`), turning the launcher into a mini script builder.
+4. Aesthetics. Interface in the style of **cool-retro-term + Rofi blue theme — translucent acrylic background, neon cyan
+   cyber accents (#00f7ff), CRT effects with scanlines and vignette. It's not just a utility, it's a visual pleasure.
+5. Learning. The project develops skills: GUI work (CustomTkinter), global hotkeys (pynput), WinAPI via ctypes, JSON configs,
+   subprocesses, logging.
+
+ - Philosophy
+Vitan is your personal command center. It doesn't force ready-made functions on you, but gives you a tool you customize
+yourself: add your favorite websites, programs, scripts — and get a single access window for all of it. Minimalism on the
+outside, power on the inside.
+
+Essentially, it's a digital "magic wand" — one hotkey, one line, and you do what you wanted without getting distracted by
+routine.
+
+ - Authors
+Made by:
+GCoder
+Computer Academy TOP
+
+
+Python 3.12.1
+customtkinter
+pynput
+pywinstyles
+
+version: 0.0.03 Beta 2026
+
+Made with a love for coding
+
+Vitan is not a commercial project, it's customisable and
+made for fun — use it freely. Good luck!

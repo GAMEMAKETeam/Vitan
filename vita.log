@@ -1,0 +1,703 @@
+[VITA] Running in background. Press Alt+V to open.
+[VITA] Try: 'notepad', 'mkfolder C:\test', 'qwen', or '!list'
+[VITA] Press Ctrl+Alt+Q to quit.
+[VITA] Hotkey Alt+V triggered!
+[VITA] Executing: mkdir "D:\googa"
+[VITA] Hotkey Alt+V triggered!
+[VITA] Executing: mkdir "D:/googa"
+[VITA] Hotkey Alt+V triggered!
+[VITA] Current commands:
+[VITA]   notepad -> notepad.exe (Attributes: )
+[VITA]   mkfolder -> mkdir "{path}" (Attributes: path)
+[VITA]   ping -> ping {host} -n {count} (Attributes: host, count)
+[VITA]   open -> start {path} (Attributes: path)
+[VITA] Hotkey Alt+V triggered!
+[VITA] Running in background. Press Alt+V to open.
+[VITA] Try: 'notepad', 'mkfolder C:\test', 'qwen', or '!list'
+[VITA] Press Ctrl+Alt+Q to quit.
+[VITA] Hotkey Alt+V triggered!
+[VITA] Executing: mkdir "D:\Vita\hallo"
+[VITA] Hotkey Alt+V triggered!
+[VITA] Quitting application...
+[VITA] Running in background. Press Alt+V to open.
+[VITA] Try: 'notepad', 'mkfolder C:\test', 'qwen', or '!list'
+[VITA] Press Ctrl+Alt+Q to quit.
+[VITA] Hotkey Alt+V triggered!
+[VITA] Quitting application...
+[VITA] Running in background. Press Alt+V to open.
+[VITA] Press Ctrl+Alt+Q to quit.
+[VITA] Hotkey Alt+V triggered!
+[VITA] Hotkey Alt+V triggered!
+[VITA] Hotkey Alt+V triggered!
+[VITA] Quitting application...
+[VITA] Running in background. Press Alt+V to open.
+[VITA] Press Ctrl+Alt+Q to quit.
+[VITA] Hotkey Alt+V triggered!
+[VITA] Running in background. Press Alt+V to open.
+[VITA] Press Ctrl+Alt+Q to quit.
+[VITA] Hotkey Alt+V triggered!
+[VITA] Executing: start qwen
+[VITA] Running in background. Press Alt+V to open.
+[VITA] Press Ctrl+Alt+Q to quit.
+[VITA] Hotkey Alt+V triggered!
+[VITA] Running in background. Press Alt+V to open.
+[VITA] Press Ctrl+Alt+Q to quit.
+[VITA] Hotkey Alt+V triggered!
+[VITA] Executing: https://www.google.com/search?q=guy
+[VITA] Hotkey Alt+V triggered!
+[VITA] Running in background. Press Alt+V to open.
+[VITA] Press Ctrl+Alt+Q to quit.
+[VITA] Hotkey Alt+V triggered!
+[VITA] Executing: start chrome
+[VITA] Running in background. Press Alt+V to open.
+[VITA] Press Ctrl+Alt+Q to quit.
+[VITA] Hotkey Alt+V triggered!
+[VITA] Quitting application...
+[VITA] Running in background. Press Alt+V to open.
+[VITA] Press Ctrl+Alt+Q to quit.
+[VITA] Hotkey Alt+V triggered!
+[VITA] Running in background. Press Alt+V to open.
+[VITA] Press Ctrl+Alt+Q to quit.
+[VITA] Hotkey Alt+V triggered!
+[VITA] Quitting application...
+[VITA] Running in background. Press Alt+V to open.
+[VITA] Press Ctrl+Alt+Q to quit.
+[VITA] Hotkey Alt+V triggered!
+[VITA] Running in background. Press Alt+V to open.
+[VITA] Press Ctrl+Alt+Q to quit.
+[VITA] Hotkey Alt+V triggered!
+[VITA] Opening website: https://chat.qwen.ai
+[VITA] Hotkey Alt+V triggered!
+[VITA] Opening website: https://www.google.com/search?q=https;//youtube.com
+[VITA] Hotkey Alt+V triggered!
+[VITA] Opening website: https://www.youtube.com/
+[VITA] Running in background. Press Alt+V to open.
+[VITA] Press Ctrl+Alt+Q to quit.
+[VITA] Hotkey Alt+V triggered!
+[VITA] Opening website: https://vk.com
+[VITA] Running in background. Press Alt+V to open.
+[VITA] Press Ctrl+Alt+Q to quit.
+[VITA] GIF background loaded: 18 frames
+[VITA] Running in background. Press Alt+V to open.
+[VITA] Press Ctrl+Alt+Q to quit.
+[VITA] Hotkey Alt+V triggered!
+[VITA] Looking for GIF: D:\Vita\background.gif
+[VITA] Loaded 18 frames from GIF
+[VITA] GIF background loaded: 18 frames
+[VITA] Running in background. Press Alt+V to open.
+[VITA] Press Ctrl+Alt+Q to quit.
+[VITA] Hotkey Alt+V triggered!
+[VITA] Loaded 18 GIF frames
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item 'details.txt'
+[VITA] Opening website: https://www.figma.com
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Loaded 18 GIF frames
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Loaded 18 GIF frames (resized to 600x110)
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Loaded 18 GIF frames (resized to 600x110)
+[VITA] Loaded 18 GIF frames
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Unknown command: hallo
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Unknown command: hi
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: cmd.exe
+[VITA] Executing: powershell.exe
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Opening website: https://outlook.live.com
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Unknown command: v
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: calc.exe
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item 'details.txt'
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: shutdown /h
+[VITA] Режим гибернации не поддерживается в этой системе. Для использования параметра -h
+необходимо включить использование режима гибернации.(126)
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: date /t
+[VITA] Get-Date : Не удается привязать параметр "Date". Не удается преобразовать значение "/t" в тип "System.DateTime". Ошибка
+: "Строка не распознана как действительное значение DateTime."
+строка:1 знак:64
++ [Console]::OutputEncoding = [System.Text.Encoding]::UTF8; date /t
++                                                                ~~
+    + CategoryInfo          : InvalidArgument: (:) [Get-Date], ParameterBindingException
+    + FullyQualifiedErrorId : CannotConvertArgumentNoMessage,Microsoft.PowerShell.Commands.GetDateCommand
+[VITA] Executing: date /t
+[VITA] Get-Date : Не удается привязать параметр "Date". Не удается преобразовать значение "/t" в тип "System.DateTime". Ошибка
+: "Строка не распознана как действительное значение DateTime."
+строка:1 знак:64
++ [Console]::OutputEncoding = [System.Text.Encoding]::UTF8; date /t
++                                                                ~~
+    + CategoryInfo          : InvalidArgument: (:) [Get-Date], ParameterBindingException
+    + FullyQualifiedErrorId : CannotConvertArgumentNoMessage,Microsoft.PowerShell.Commands.GetDateCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: services.msc
+[VITA] Executing: devmgmt.msc
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Opening website: https://www.figma.com
+[VITA] Executing: taskmgr.exe
+[VITA] Executing: mstsc.exe
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: https://www.google.com/search?q=something
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: https://www.google.com/search?q=point
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: time /t
+[VITA] time : Имя "time" не распознано как имя командлета, функции, файла сценария или выполняемой программы. Проверьте правил
+ьность написания имени, а также наличие и правильность пути, после чего повторите попытку.
+строка:1 знак:59
++ [Console]::OutputEncoding = [System.Text.Encoding]::UTF8; time /t
++                                                           ~~~~
+    + CategoryInfo          : ObjectNotFound: (time:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: https://www.google.com/search?q=point
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item 'details.txt'
+[VITA] Command 'Invoke-Item 'details.txt'' executed successfully (no output).
+[VITA] Opening website: https://news.ycombinator.com
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: write.exe
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: https://www.google.com/search?q=point
+[VITA] Executing: date /t
+[VITA] Get-Date : Не удается привязать параметр "Date". Не удается преобразовать значение "/t" в тип "System.DateTime". Ошибка
+: "Строка не распознана как действительное значение DateTime."
+строка:1 знак:64
++ [Console]::OutputEncoding = [System.Text.Encoding]::UTF8; date /t
++                                                                ~~
+    + CategoryInfo          : InvalidArgument: (:) [Get-Date], ParameterBindingException
+    + FullyQualifiedErrorId : CannotConvertArgumentNoMessage,Microsoft.PowerShell.Commands.GetDateCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: date /t
+[VITA] Get-Date : Не удается привязать параметр "Date". Не удается преобразовать значение "/t" в тип "System.DateTime". Ошибка
+: "Строка не распознана как действительное значение DateTime."
+строка:1 знак:64
++ [Console]::OutputEncoding = [System.Text.Encoding]::UTF8; date /t
++                                                                ~~
+    + CategoryInfo          : InvalidArgument: (:) [Get-Date], ParameterBindingException
+    + FullyQualifiedErrorId : CannotConvertArgumentNoMessage,Microsoft.PowerShell.Commands.GetDateCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: calc.exe
+[VITA] Executing: ipconfig
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: time /t
+[VITA] time : Имя "time" не распознано как имя командлета, функции, файла сценария или выполняемой программы. Проверьте правил
+ьность написания имени, а также наличие и правильность пути, после чего повторите попытку.
+строка:1 знак:59
++ [Console]::OutputEncoding = [System.Text.Encoding]::UTF8; time /t
++                                                           ~~~~
+    + CategoryInfo          : ObjectNotFound: (time:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+[VITA] Executing: whoami
+[VITA] Opening website: https://en.wikipedia.org/wiki/Special:Search?search=minecraft
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item ""
+[VITA] Invoke-Item : Не удается привязать аргумент к параметру "Path", так как он представляет собой пустую строку.
+строка:1 знак:71
++ ... nsole]::OutputEncoding = [System.Text.Encoding]::UTF8; Invoke-Item ""
++                                                                        ~~
+    + CategoryInfo          : InvalidData: (:) [Invoke-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyStringNotAllowed,Microsoft.PowerShell.Commands.Invo 
+   keItemCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item ""
+[VITA] Invoke-Item : Не удается привязать аргумент к параметру "Path", так как он представляет собой пустую строку.
+строка:1 знак:71
++ ... nsole]::OutputEncoding = [System.Text.Encoding]::UTF8; Invoke-Item ""
++                                                                        ~~
+    + CategoryInfo          : InvalidData: (:) [Invoke-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyStringNotAllowed,Microsoft.PowerShell.Commands.Invo 
+   keItemCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item ""
+[VITA] Invoke-Item : Не удается привязать аргумент к параметру "Path", так как он представляет собой пустую строку.
+строка:1 знак:71
++ ... nsole]::OutputEncoding = [System.Text.Encoding]::UTF8; Invoke-Item ""
++                                                                        ~~
+    + CategoryInfo          : InvalidData: (:) [Invoke-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyStringNotAllowed,Microsoft.PowerShell.Commands.Invo 
+   keItemCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item ""
+[VITA] Invoke-Item : Не удается привязать аргумент к параметру "Path", так как он представляет собой пустую строку.
+строка:1 знак:71
++ ... nsole]::OutputEncoding = [System.Text.Encoding]::UTF8; Invoke-Item ""
++                                                                        ~~
+    + CategoryInfo          : InvalidData: (:) [Invoke-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyStringNotAllowed,Microsoft.PowerShell.Commands.Invo 
+   keItemCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item ""
+[VITA] Invoke-Item : Не удается привязать аргумент к параметру "Path", так как он представляет собой пустую строку.
+строка:1 знак:71
++ ... nsole]::OutputEncoding = [System.Text.Encoding]::UTF8; Invoke-Item ""
++                                                                        ~~
+    + CategoryInfo          : InvalidData: (:) [Invoke-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyStringNotAllowed,Microsoft.PowerShell.Commands.Invo 
+   keItemCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item ""
+[VITA] Invoke-Item : Не удается привязать аргумент к параметру "Path", так как он представляет собой пустую строку.
+строка:1 знак:71
++ ... nsole]::OutputEncoding = [System.Text.Encoding]::UTF8; Invoke-Item ""
++                                                                        ~~
+    + CategoryInfo          : InvalidData: (:) [Invoke-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyStringNotAllowed,Microsoft.PowerShell.Commands.Invo 
+   keItemCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item ""
+[VITA] Invoke-Item : Не удается привязать аргумент к параметру "Path", так как он представляет собой пустую строку.
+строка:1 знак:71
++ ... nsole]::OutputEncoding = [System.Text.Encoding]::UTF8; Invoke-Item ""
++                                                                        ~~
+    + CategoryInfo          : InvalidData: (:) [Invoke-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyStringNotAllowed,Microsoft.PowerShell.Commands.Invo 
+   keItemCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: time
+[VITA] time : Имя "time" не распознано как имя командлета, функции, файла сценария или выполняемой программы. Проверьте правил
+ьность написания имени, а также наличие и правильность пути, после чего повторите попытку.
+строка:1 знак:59
++ [Console]::OutputEncoding = [System.Text.Encoding]::UTF8; time
++                                                           ~~~~
+    + CategoryInfo          : ObjectNotFound: (time:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item ""
+[VITA] Invoke-Item : Не удается привязать аргумент к параметру "Path", так как он представляет собой пустую строку.
+строка:1 знак:71
++ ... nsole]::OutputEncoding = [System.Text.Encoding]::UTF8; Invoke-Item ""
++                                                                        ~~
+    + CategoryInfo          : InvalidData: (:) [Invoke-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyStringNotAllowed,Microsoft.PowerShell.Commands.Invo 
+   keItemCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item ""
+[VITA] Invoke-Item : Не удается привязать аргумент к параметру "Path", так как он представляет собой пустую строку.
+строка:1 знак:71
++ ... nsole]::OutputEncoding = [System.Text.Encoding]::UTF8; Invoke-Item ""
++                                                                        ~~
+    + CategoryInfo          : InvalidData: (:) [Invoke-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyStringNotAllowed,Microsoft.PowerShell.Commands.Invo 
+   keItemCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item ""
+[VITA] Invoke-Item : Не удается привязать аргумент к параметру "Path", так как он представляет собой пустую строку.
+строка:1 знак:71
++ ... nsole]::OutputEncoding = [System.Text.Encoding]::UTF8; Invoke-Item ""
++                                                                        ~~
+    + CategoryInfo          : InvalidData: (:) [Invoke-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyStringNotAllowed,Microsoft.PowerShell.Commands.Invo 
+   keItemCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item ""
+[VITA] Invoke-Item : Не удается привязать аргумент к параметру "Path", так как он представляет собой пустую строку.
+строка:1 знак:71
++ ... nsole]::OutputEncoding = [System.Text.Encoding]::UTF8; Invoke-Item ""
++                                                                        ~~
+    + CategoryInfo          : InvalidData: (:) [Invoke-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyStringNotAllowed,Microsoft.PowerShell.Commands.Invo 
+   keItemCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item "D:\Vita\icon.ico"
+[VITA] Invoke-Item : No application is associated with the specified file for this operation
+строка:1 знак:59
++ ... coding = [System.Text.Encoding]::UTF8; Invoke-Item "D:\Vita\icon.ico"
++                                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [Invoke-Item], Win32Exception
+    + FullyQualifiedErrorId : System.ComponentModel.Win32Exception,Microsoft.PowerShell.Commands.InvokeItemCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item ""
+[VITA] Invoke-Item : Не удается привязать аргумент к параметру "Path", так как он представляет собой пустую строку.
+строка:1 знак:71
++ ... nsole]::OutputEncoding = [System.Text.Encoding]::UTF8; Invoke-Item ""
++                                                                        ~~
+    + CategoryInfo          : InvalidData: (:) [Invoke-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyStringNotAllowed,Microsoft.PowerShell.Commands.Invo 
+   keItemCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item ""
+[VITA] Invoke-Item : Не удается привязать аргумент к параметру "Path", так как он представляет собой пустую строку.
+строка:1 знак:71
++ ... nsole]::OutputEncoding = [System.Text.Encoding]::UTF8; Invoke-Item ""
++                                                                        ~~
+    + CategoryInfo          : InvalidData: (:) [Invoke-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyStringNotAllowed,Microsoft.PowerShell.Commands.Invo 
+   keItemCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item ""
+[VITA] Invoke-Item : Не удается привязать аргумент к параметру "Path", так как он представляет собой пустую строку.
+строка:1 знак:71
++ ... nsole]::OutputEncoding = [System.Text.Encoding]::UTF8; Invoke-Item ""
++                                                                        ~~
+    + CategoryInfo          : InvalidData: (:) [Invoke-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyStringNotAllowed,Microsoft.PowerShell.Commands.Invo 
+   keItemCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item ""
+[VITA] Invoke-Item : Не удается привязать аргумент к параметру "Path", так как он представляет собой пустую строку.
+строка:1 знак:71
++ ... nsole]::OutputEncoding = [System.Text.Encoding]::UTF8; Invoke-Item ""
++                                                                        ~~
+    + CategoryInfo          : InvalidData: (:) [Invoke-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyStringNotAllowed,Microsoft.PowerShell.Commands.Invo 
+   keItemCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item ""
+[VITA] Invoke-Item : Не удается привязать аргумент к параметру "Path", так как он представляет собой пустую строку.
+строка:1 знак:71
++ ... nsole]::OutputEncoding = [System.Text.Encoding]::UTF8; Invoke-Item ""
++                                                                        ~~
+    + CategoryInfo          : InvalidData: (:) [Invoke-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyStringNotAllowed,Microsoft.PowerShell.Commands.Invo 
+   keItemCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item ""
+[VITA] Invoke-Item : Не удается привязать аргумент к параметру "Path", так как он представляет собой пустую строку.
+строка:1 знак:71
++ ... nsole]::OutputEncoding = [System.Text.Encoding]::UTF8; Invoke-Item ""
++                                                                        ~~
+    + CategoryInfo          : InvalidData: (:) [Invoke-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyStringNotAllowed,Microsoft.PowerShell.Commands.Invo 
+   keItemCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Opening website: https://www.google.com/search?q=
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Opening website: https://www.figma.com
+[VITA] Opening website: https://www.figma.com
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Opening website: https://www.figma.com
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Opening website: https://www.figma.com
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Opening website: https://www.figma.com
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Opening website: https://www.figma.com
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item 'details.txt'
+[VITA] Command 'Invoke-Item 'details.txt'' executed successfully (no output).
+[VITA] Opening website: https://www.figma.com
+[VITA] Executing: calc.exe
+[VITA] Executing: calc.exe
+[VITA] Executing: Invoke-Item ""
+[VITA] Invoke-Item : Не удается привязать аргумент к параметру "Path", так как он представляет собой пустую строку.
+строка:1 знак:71
++ ... nsole]::OutputEncoding = [System.Text.Encoding]::UTF8; Invoke-Item ""
++                                                                        ~~
+    + CategoryInfo          : InvalidData: (:) [Invoke-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyStringNotAllowed,Microsoft.PowerShell.Commands.Invo 
+   keItemCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item ""
+[VITA] Invoke-Item : Не удается привязать аргумент к параметру "Path", так как он представляет собой пустую строку.
+строка:1 знак:71
++ ... nsole]::OutputEncoding = [System.Text.Encoding]::UTF8; Invoke-Item ""
++                                                                        ~~
+    + CategoryInfo          : InvalidData: (:) [Invoke-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyStringNotAllowed,Microsoft.PowerShell.Commands.Invo 
+   keItemCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: https://www.google.com/search?q=point
+[VITA] Opening website: https://www.figma.com
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Opening website: https://www.figma.com
+[VITA] Executing: Invoke-Item ""
+[VITA] Invoke-Item : Не удается привязать аргумент к параметру "Path", так как он представляет собой пустую строку.
+строка:1 знак:71
++ ... nsole]::OutputEncoding = [System.Text.Encoding]::UTF8; Invoke-Item ""
++                                                                        ~~
+    + CategoryInfo          : InvalidData: (:) [Invoke-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyStringNotAllowed,Microsoft.PowerShell.Commands.Invo 
+   keItemCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: https://www.google.com/search?q=point
+[VITA] Executing: https://www.google.com/search?q=point
+[VITA] Executing: Invoke-Item ""
+[VITA] Invoke-Item : Не удается привязать аргумент к параметру "Path", так как он представляет собой пустую строку.
+строка:1 знак:71
++ ... nsole]::OutputEncoding = [System.Text.Encoding]::UTF8; Invoke-Item ""
++                                                                        ~~
+    + CategoryInfo          : InvalidData: (:) [Invoke-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyStringNotAllowed,Microsoft.PowerShell.Commands.Invo 
+   keItemCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Opening website: https://drive.google.com
+[VITA] Opening website: https://www.figma.com
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Start-Process ms-settings:yourinfo
+[VITA] Command 'Start-Process ms-settings:yourinfo' executed successfully (no output).
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Get-CimInstance Win32_StartupCommand | Select-Object Name, Command, Location
+[VITA] Executing: Get-Process | Sort-Object CPU -Descending | Select-Object -First 10 Name, Id, CPU
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Failed to load default config: 'StyleManager' object has no attribute 'default_config'.
+[VITA] Failed to load default config: 'StyleManager' object has no attribute 'default_config'.
+[VITA] Failed to load default config: 'StyleManager' object has no attribute 'default_config'.
+[VITA] Failed to load default config: 'StyleManager' object has no attribute 'default_config'.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Quitting...
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item ""
+[VITA] Invoke-Item : Не удается привязать аргумент к параметру "Path", так как он представляет собой пустую строку.
+строка:1 знак:71
++ ... nsole]::OutputEncoding = [System.Text.Encoding]::UTF8; Invoke-Item ""
++                                                                        ~~
+    + CategoryInfo          : InvalidData: (:) [Invoke-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyStringNotAllowed,Microsoft.PowerShell.Commands.Invo 
+   keItemCommand
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Get-CimInstance Win32_VideoController | Select-Object Name, AdapterRAM, DriverVersion
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Get-NetFirewallRule | Select-Object DisplayName, Enabled, Direction | Format-Table -AutoSize
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Get-TimeZone
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Get-TimeZone
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Get-TimeZone
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Get-TimeZone
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Get-TimeZone
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Get-TimeZone
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Get-TimeZone
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item 'details.txt'
+[VITA] Command 'Invoke-Item 'details.txt'' executed successfully (no output).
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Get-TimeZone
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Get-TimeZone
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Get-TimeZone
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Get-TimeZone
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item 'details.txt'
+[VITA] Command 'Invoke-Item 'details.txt'' executed successfully (no output).
+[VITA] Quitting...
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Get-TimeZone
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Start-Process ms-settings:
+[VITA] Command 'Start-Process ms-settings:' executed successfully (no output).
+[VITA] Executing: Start-Process ms-settings:
+[VITA] Command 'Start-Process ms-settings:' executed successfully (no output).
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Get-TimeZone
+[VITA] Running. Alt+V to open. Ctrl+Alt+Q to quit.
+[VITA] Executing: Invoke-Item ""
+[VITA] Invoke-Item : Не удается привязать аргумент к параметру "Path", так как он представляет собой пустую строку.
+строка:1 знак:71
++ ... nsole]::OutputEncoding = [System.Text.Encoding]::UTF8; Invoke-Item ""
++                                                                        ~~
+    + CategoryInfo          : InvalidData: (:) [Invoke-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyStringNotAllowed,Microsoft.PowerShell.Commands.Invo 
+   keItemCommand

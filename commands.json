@@ -1,0 +1,1271 @@
+{
+    "notepad": {
+        "command": "Start-Process notepad.exe",
+        "description": "Opens Notepad"
+    },
+    "calc": {
+        "command": "Start-Process calc.exe",
+        "description": "Opens Calculator"
+    },
+    "paint": {
+        "command": "Start-Process mspaint.exe",
+        "description": "Opens Paint"
+    },
+    "explorer": {
+        "command": "Start-Process explorer.exe",
+        "description": "Opens File Explorer"
+    },
+    "cmd": {
+        "command": "Start-Process cmd.exe",
+        "description": "Opens Command Prompt"
+    },
+    "powershell": {
+        "command": "Start-Process powershell.exe",
+        "description": "Opens PowerShell"
+    },
+    "powershell_admin": {
+        "command": "Start-Process powershell.exe -Verb RunAs",
+        "description": "Opens PowerShell as Administrator"
+    },
+    "cmd_admin": {
+        "command": "Start-Process cmd.exe -Verb RunAs",
+        "description": "Opens Command Prompt as Administrator"
+    },
+    "taskmgr": {
+        "command": "Start-Process taskmgr.exe",
+        "description": "Opens Task Manager"
+    },
+    "control": {
+        "command": "Start-Process control.exe",
+        "description": "Opens Control Panel"
+    },
+    "devmgmt": {
+        "command": "Start-Process devmgmt.msc",
+        "description": "Opens Device Manager"
+    },
+    "diskmgmt": {
+        "command": "Start-Process diskmgmt.msc",
+        "description": "Opens Disk Management"
+    },
+    "services": {
+        "command": "Start-Process services.msc",
+        "description": "Opens Services"
+    },
+    "regedit": {
+        "command": "Start-Process regedit.exe",
+        "description": "Opens Registry Editor"
+    },
+    "regedit_admin": {
+        "command": "Start-Process regedit.exe -Verb RunAs",
+        "description": "Opens Registry Editor as Admin"
+    },
+    "eventvwr": {
+        "command": "Start-Process eventvwr.exe",
+        "description": "Opens Event Viewer"
+    },
+    "mstsc": {
+        "command": "Start-Process mstsc.exe",
+        "description": "Opens Remote Desktop"
+    },
+    "snipping": {
+        "command": "Start-Process snippingtool.exe",
+        "description": "Opens Snipping Tool"
+    },
+    "osk": {
+        "command": "Start-Process osk.exe",
+        "description": "Opens On-Screen Keyboard"
+    },
+    "write": {
+        "command": "Start-Process write.exe",
+        "description": "Opens WordPad"
+    },
+    "msconfig": {
+        "command": "Start-Process msconfig.exe",
+        "description": "Opens System Configuration"
+    },
+    "compmgmt": {
+        "command": "Start-Process compmgmt.msc",
+        "description": "Opens Computer Management"
+    },
+    "secpol": {
+        "command": "Start-Process secpol.msc",
+        "description": "Opens Local Security Policy"
+    },
+    "firewall": {
+        "command": "Start-Process wf.msc",
+        "description": "Opens Windows Firewall"
+    },
+    "perfmon": {
+        "command": "Start-Process perfmon.exe",
+        "description": "Opens Performance Monitor"
+    },
+    "resmon": {
+        "command": "Start-Process resmon.exe",
+        "description": "Opens Resource Monitor"
+    },
+    "dxdiag": {
+        "command": "Start-Process dxdiag.exe",
+        "description": "Opens DirectX Diagnostic Tool"
+    },
+    "msinfo": {
+        "command": "Start-Process msinfo32.exe",
+        "description": "Opens System Information"
+    },
+    "charmap": {
+        "command": "Start-Process charmap.exe",
+        "description": "Opens Character Map"
+    },
+    "cleanmgr": {
+        "command": "Start-Process cleanmgr.exe",
+        "description": "Opens Disk Cleanup"
+    },
+    "defrag": {
+        "command": "Start-Process dfrgui.exe",
+        "description": "Opens Defragmentation Tool"
+    },
+    "recycle": {
+        "command": "Start-Process shell:RecycleBinFolder",
+        "description": "Opens Recycle Bin"
+    },
+    "downloads": {
+        "command": "Start-Process explorer.exe $env:USERPROFILE\\Downloads",
+        "description": "Opens Downloads folder"
+    },
+    "documents": {
+        "command": "Start-Process explorer.exe $env:USERPROFILE\\Documents",
+        "description": "Opens Documents folder"
+    },
+    "desktop": {
+        "command": "Start-Process explorer.exe $env:USERPROFILE\\Desktop",
+        "description": "Opens Desktop folder"
+    },
+    "pictures": {
+        "command": "Start-Process explorer.exe $env:USERPROFILE\\Pictures",
+        "description": "Opens Pictures folder"
+    },
+    "music": {
+        "command": "Start-Process explorer.exe $env:USERPROFILE\\Music",
+        "description": "Opens Music folder"
+    },
+    "videos": {
+        "command": "Start-Process explorer.exe $env:USERPROFILE\\Videos",
+        "description": "Opens Videos folder"
+    },
+    "appdata": {
+        "command": "Start-Process explorer.exe $env:APPDATA",
+        "description": "Opens AppData folder"
+    },
+    "programfiles": {
+        "command": "Start-Process explorer.exe $env:ProgramFiles",
+        "description": "Opens Program Files folder"
+    },
+    "windows": {
+        "command": "Start-Process explorer.exe $env:SystemRoot",
+        "description": "Opens Windows folder"
+    },
+    "temp": {
+        "command": "Start-Process explorer.exe $env:TEMP",
+        "description": "Opens Temp folder"
+    },
+    "hosts": {
+        "command": "Start-Process notepad.exe C:\\Windows\\System32\\drivers\\etc\\hosts -Verb RunAs",
+        "description": "Opens hosts file as Admin"
+    },
+    "create": {
+        "command": "New-Item -ItemType Directory -Path \"{path}\" -Force",
+        "description": "Creates a folder",
+        "attributes": ["path"]
+    },
+    "file": {
+        "command": "Invoke-Item \"{path}\"",
+        "description": "Opens file",
+        "attributes": ["path"]
+    },
+    "open": {
+        "command": "Start-Process {name}",
+        "description": "Opens a program or URL",
+        "attributes": ["name"]
+    },
+    "copy": {
+        "command": "Copy-Item \"{source}\" \"{destination}\" -Recurse -Force",
+        "description": "Copies file or folder",
+        "attributes": ["source", "destination"]
+    },
+    "move": {
+        "command": "Move-Item \"{source}\" \"{destination}\" -Force",
+        "description": "Moves file or folder",
+        "attributes": ["source", "destination"]
+    },
+    "del": {
+        "command": "Remove-Item \"{path}\" -Recurse -Force",
+        "description": "Deletes file or folder",
+        "attributes": ["path"]
+    },
+    "rename": {
+        "command": "Rename-Item \"{path}\" \"{newname}\"",
+        "description": "Renames file or folder",
+        "attributes": ["path", "newname"]
+    },
+    "tree": {
+        "command": "tree \"{path}\"",
+        "description": "Shows folder structure",
+        "attributes": ["path"]
+    },
+    "listdir": {
+        "command": "Get-ChildItem \"{path}\" | Format-Table Name, Length, LastWriteTime",
+        "description": "Lists directory contents",
+        "attributes": ["path"]
+    },
+    "listfiles": {
+        "command": "Get-ChildItem \"{path}\" -File | Select-Object Name, Length",
+        "description": "Lists only files",
+        "attributes": ["path"]
+    },
+    "listdirs": {
+        "command": "Get-ChildItem \"{path}\" -Directory | Select-Object Name",
+        "description": "Lists only directories",
+        "attributes": ["path"]
+    },
+    "find": {
+        "command": "Start-Process \"https://www.google.com/search?q={request}\"",
+        "description": "Searches in Google",
+        "attributes": ["request"]
+    },
+    "site": {
+        "command": "site {website}",
+        "attributes": ["website"],
+        "description": "Opens website by name, URL, or search"
+    },
+    "ping": {
+        "command": "ping {host} -n {count}",
+        "description": "Pings a host",
+        "attributes": ["host", "count"]
+    },
+    "ipconfig": {
+        "command": "ipconfig",
+        "description": "Shows IP configuration"
+    },
+    "ipconfig_all": {
+        "command": "ipconfig /all",
+        "description": "Shows detailed IP configuration"
+    },
+    "ipconfig_flush": {
+        "command": "ipconfig /flushdns",
+        "description": "Flushes DNS resolver cache"
+    },
+    "ipconfig_release": {
+        "command": "ipconfig /release",
+        "description": "Releases IP address"
+    },
+    "ipconfig_renew": {
+        "command": "ipconfig /renew",
+        "description": "Renews IP address"
+    },
+    "tracert": {
+        "command": "tracert {host}",
+        "description": "Traces route to host",
+        "attributes": ["host"]
+    },
+    "netstat": {
+        "command": "netstat -ano",
+        "description": "Shows network statistics"
+    },
+    "netstat_listening": {
+        "command": "netstat -ano | findstr LISTENING",
+        "description": "Shows listening ports"
+    },
+    "nslookup": {
+        "command": "nslookup {host}",
+        "description": "Queries DNS",
+        "attributes": ["host"]
+    },
+    "tasklist": {
+        "command": "Get-Process | Format-Table Name, Id, CPU, WorkingSet -AutoSize",
+        "description": "Lists running processes"
+    },
+    "tasklist_filter": {
+        "command": "Get-Process -Name *{name}* | Format-Table Name, Id, CPU",
+        "description": "Filters processes by name",
+        "attributes": ["name"]
+    },
+    "taskkill": {
+        "command": "Stop-Process -Name {name} -Force",
+        "description": "Kills a process",
+        "attributes": ["name"]
+    },
+    "taskkill_id": {
+        "command": "Stop-Process -Id {id} -Force",
+        "description": "Kills process by ID",
+        "attributes": ["id"]
+    },
+    "shutdown": {
+        "command": "shutdown /s /t {seconds}",
+        "description": "Shuts down PC",
+        "attributes": ["seconds"]
+    },
+    "restart": {
+        "command": "shutdown /r /t {seconds}",
+        "description": "Restarts PC",
+        "attributes": ["seconds"]
+    },
+    "lock": {
+        "command": "rundll32.exe user32.dll,LockWorkStation",
+        "description": "Locks the PC"
+    },
+    "sleep": {
+        "command": "rundll32.exe powrprof.dll,SetSuspendState 0,1,0",
+        "description": "Puts PC to sleep"
+    },
+    "hibernate": {
+        "command": "shutdown /h",
+        "description": "Hibernates PC"
+    },
+    "abort": {
+        "command": "shutdown /a",
+        "description": "Aborts shutdown"
+    },
+    "logoff": {
+        "command": "shutdown /l",
+        "description": "Logs off current user"
+    },
+    "systeminfo": {
+        "command": "systeminfo",
+        "description": "Shows system information"
+    },
+    "hostname": {
+        "command": "hostname",
+        "description": "Shows computer name"
+    },
+    "whoami": {
+        "command": "whoami",
+        "description": "Shows current user"
+    },
+    "ver": {
+        "command": "$PSVersionTable.PSVersion",
+        "description": "Shows PowerShell version"
+    },
+    "winver": {
+        "command": "Start-Process winver.exe",
+        "description": "Shows Windows version dialog"
+    },
+    "emptybin": {
+        "command": "Clear-RecycleBin -Force",
+        "description": "Empties Recycle Bin"
+    },
+    "help": {
+        "command": "Invoke-Item 'details.txt'",
+        "description": "Gives the details"
+    },
+    "run": {
+        "command": "{command}",
+        "description": "Runs command with Windows PowerShell",
+        "attributes": ["command"]
+    },
+    "env": {
+        "command": "Get-ChildItem Env: | Format-Table Name, Value -AutoSize",
+        "description": "Shows environment variables"
+    },
+    "env_get": {
+        "command": "$env:{name}",
+        "description": "Gets specific environment variable",
+        "attributes": ["name"]
+    },
+    "path": {
+        "command": "$env:Path -split ';'",
+        "description": "Shows PATH variable"
+    },
+    "date": {
+        "command": "Get-Date",
+        "description": "Shows current date and time"
+    },
+    "uptime": {
+        "command": "(Get-Date) - (Get-CimInstance Win32_OperatingSystem).LastBootUpTime",
+        "description": "Shows system uptime"
+    },
+    "timezone": {
+        "command": "Get-TimeZone",
+        "description": "Shows current timezone"
+    },
+    "cpu": {
+        "command": "Get-CimInstance Win32_Processor | Select-Object Name, NumberOfCores, NumberOfLogicalProcessors",
+        "description": "Shows CPU information"
+    },
+    "ram": {
+        "command": "Get-CimInstance Win32_PhysicalMemory | Select-Object Manufacturer, Capacity, Speed",
+        "description": "Shows RAM information"
+    },
+    "ram_total": {
+        "command": "[math]::Round((Get-CimInstance Win32_ComputerSystem).TotalPhysicalMemory / 1GB, 2).ToString() + ' GB'",
+        "description": "Shows total RAM"
+    },
+    "gpu": {
+        "command": "Get-CimInstance Win32_VideoController | Select-Object Name, AdapterRAM, DriverVersion",
+        "description": "Shows GPU information"
+    },
+    "disk": {
+        "command": "Get-CimInstance Win32_DiskDrive | Select-Object Model, Size, InterfaceType",
+        "description": "Shows disk information"
+    },
+    "disk_space": {
+        "command": "Get-Volume | Format-Table DriveLetter, FileSystemLabel, SizeRemaining, Size -AutoSize",
+        "description": "Shows disk space"
+    },
+    "battery": {
+        "command": "Get-CimInstance Win32_Battery | Select-Object Status, EstimatedChargeRemaining, BatteryStatus",
+        "description": "Shows battery status"
+    },
+    "network_adapters": {
+        "command": "Get-NetAdapter | Format-Table Name, Status, LinkSpeed -AutoSize",
+        "description": "Shows network adapters"
+    },
+    "wifi_profiles": {
+        "command": "netsh wlan show profiles",
+        "description": "Shows saved WiFi profiles"
+    },
+    "wifi_password": {
+        "command": "netsh wlan show profile name=\"{name}\" key=clear",
+        "description": "Shows WiFi password",
+        "attributes": ["name"]
+    },
+    "arp": {
+        "command": "arp -a",
+        "description": "Shows ARP table"
+    },
+    "route": {
+        "command": "route print",
+        "description": "Shows routing table"
+    },
+    "firewall_rules": {
+        "command": "Get-NetFirewallRule | Select-Object DisplayName, Enabled, Direction | Format-Table -AutoSize",
+        "description": "Shows firewall rules"
+    },
+    "services_list": {
+        "command": "Get-Service | Format-Table Name, Status, DisplayName -AutoSize",
+        "description": "Lists all services"
+    },
+    "services_running": {
+        "command": "Get-Service | Where-Object {$_.Status -eq 'Running'} | Format-Table Name, DisplayName -AutoSize",
+        "description": "Lists running services"
+    },
+    "service_start": {
+        "command": "Start-Service -Name {name}",
+        "description": "Starts a service",
+        "attributes": ["name"]
+    },
+    "service_stop": {
+        "command": "Stop-Service -Name {name} -Force",
+        "description": "Stops a service",
+        "attributes": ["name"]
+    },
+    "service_restart": {
+        "command": "Restart-Service -Name {name} -Force",
+        "description": "Restarts a service",
+        "attributes": ["name"]
+    },
+    "users": {
+        "command": "Get-LocalUser | Format-Table Name, Enabled, LastLogon -AutoSize",
+        "description": "Lists local users"
+    },
+    "groups": {
+        "command": "Get-LocalGroup | Format-Table Name, Description -AutoSize",
+        "description": "Lists local groups"
+    },
+    "user_groups": {
+        "command": "Get-LocalUser | Select-Object Name, @{N='Groups';E={(Get-LocalGroup | Where-Object {($_.Members -split ',') -contains $_.Name}).Name -join ', '}}",
+        "description": "Shows user group memberships"
+    },
+    "installed_programs": {
+        "command": "Get-ItemProperty HKLM:\\Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\* | Select-Object DisplayName, DisplayVersion, Publisher | Format-Table -AutoSize",
+        "description": "Lists installed programs"
+    },
+    "startup": {
+        "command": "Get-CimInstance Win32_StartupCommand | Select-Object Name, Command, Location",
+        "description": "Shows startup programs"
+    },
+    "drivers": {
+        "command": "Get-CimInstance Win32_PnPSignedDriver | Select-Object DeviceName, DriverVersion, Manufacturer | Format-Table -AutoSize",
+        "description": "Lists installed drivers"
+    },
+    "hotfixes": {
+        "command": "Get-HotFix | Format-Table HotFixID, Description, InstalledOn -AutoSize",
+        "description": "Lists installed updates"
+    },
+    "clipboard": {
+        "command": "Get-Clipboard",
+        "description": "Shows clipboard content"
+    },
+    "clipboard_clear": {
+        "command": "Set-Clipboard $null",
+        "description": "Clears clipboard"
+    },
+    "screenshot": {
+        "command": "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.Screen]::PrimaryScreen | ForEach-Object { $bmp = New-Object System.Drawing.Bitmap($_.Bounds.Width, $_.Bounds.Height); $g = [System.Drawing.Graphics]::FromImage($bmp); $g.CopyFromScreen($_.Bounds.Location, [System.Drawing.Point]::Empty, $_.Bounds.Size); $bmp.Save(\"$env:USERPROFILE\\Desktop\\screenshot_$(Get-Date -Format 'yyyyMMdd_HHmmss').png\") }",
+        "description": "Takes screenshot to Desktop"
+    },
+    "volume_up": {
+        "command": "$obj = New-Object -ComObject WScript.Shell; $obj.SendKeys([char]173)",
+        "description": "Mutes/unmutes volume"
+    },
+    "eject_cd": {
+        "command": "(New-Object -ComObject Shell.Application).Namespace(17).Items() | Where-Object { $_.Type -eq 'CD Drive' } | ForEach-Object { $_.InvokeVerb('Eject') }",
+        "description": "Ejects CD/DVD drive"
+    },
+    "power_plan": {
+        "command": "powercfg /list",
+        "description": "Lists power plans"
+    },
+    "power_plan_set": {
+        "command": "powercfg /setactive {guid}",
+        "description": "Sets active power plan",
+        "attributes": ["guid"]
+    },
+    "sfc_scan": {
+        "command": "sfc /scannow",
+        "description": "Scans system files (Admin required)"
+    },
+    "dism_check": {
+        "command": "DISM /Online /Cleanup-Image /CheckHealth",
+        "description": "Checks Windows image health"
+    },
+    "dism_restore": {
+        "command": "DISM /Online /Cleanup-Image /RestoreHealth",
+        "description": "Restores Windows image (Admin)"
+    },
+    "chkdsk": {
+        "command": "chkdsk {drive} /f",
+        "description": "Checks disk for errors",
+        "attributes": ["drive"]
+    },
+    "defrag_drive": {
+        "command": "Optimize-Volume -DriveLetter {letter}",
+        "description": "Defragments drive",
+        "attributes": ["letter"]
+    },
+    "format_usb": {
+        "command": "Format-Volume -DriveLetter {letter} -FileSystem NTFS -Confirm",
+        "description": "Formats USB drive",
+        "attributes": ["letter"]
+    },
+    "create_zip": {
+        "command": "Compress-Archive -Path \"{source}\" -DestinationPath \"{destination}.zip\"",
+        "description": "Creates ZIP archive",
+        "attributes": ["source", "destination"]
+    },
+    "extract_zip": {
+        "command": "Expand-Archive -Path \"{source}.zip\" -DestinationPath \"{destination}\"",
+        "description": "Extracts ZIP archive",
+        "attributes": ["source", "destination"]
+    },
+    "file_hash": {
+        "command": "Get-FileHash \"{path}\" -Algorithm SHA256",
+        "description": "Calculates file hash",
+        "attributes": ["path"]
+    },
+    "file_info": {
+        "command": "Get-Item \"{path}\" | Select-Object Name, Length, CreationTime, LastWriteTime, Attributes",
+        "description": "Shows file information",
+        "attributes": ["path"]
+    },
+    "file_size": {
+        "command": "[math]::Round((Get-Item \"{path}\").Length / 1MB, 2).ToString() + ' MB'",
+        "description": "Shows file size in MB",
+        "attributes": ["path"]
+    },
+    "search_files": {
+        "command": "Get-ChildItem -Path \"{path}\" -Recurse -Filter \"*{pattern}*\" | Select-Object FullName",
+        "description": "Searches files by pattern",
+        "attributes": ["path", "pattern"]
+    },
+    "large_files": {
+        "command": "Get-ChildItem -Path \"{path}\" -Recurse -File | Where-Object { $_.Length -gt 100MB } | Sort-Object Length -Descending | Select-Object FullName, @{N='SizeMB';E={[math]::Round($_.Length/1MB,2)}}",
+        "description": "Finds large files (>100MB)",
+        "attributes": ["path"]
+    },
+    "recent_files": {
+        "command": "Get-ChildItem -Path $env:USERPROFILE -Recurse -File | Sort-Object LastWriteTime -Descending | Select-Object -First 20 FullName, LastWriteTime",
+        "description": "Shows recently modified files"
+    },
+    "process_cpu": {
+        "command": "Get-Process | Sort-Object CPU -Descending | Select-Object -First 10 Name, Id, CPU",
+        "description": "Top 10 CPU consuming processes"
+    },
+    "process_ram": {
+        "command": "Get-Process | Sort-Object WorkingSet -Descending | Select-Object -First 10 Name, Id, @{N='RAM_MB';E={[math]::Round($_.WorkingSet/1MB,2)}}",
+        "description": "Top 10 RAM consuming processes"
+    },
+    "event_errors": {
+        "command": "Get-EventLog -LogName System -EntryType Error -Newest 10 | Format-Table TimeGenerated, Source, Message -AutoSize",
+        "description": "Shows recent system errors"
+    },
+    "event_warnings": {
+        "command": "Get-EventLog -LogName System -EntryType Warning -Newest 10 | Format-Table TimeGenerated, Source, Message -AutoSize",
+        "description": "Shows recent system warnings"
+    },
+    "event_log": {
+        "command": "Get-EventLog -LogName {name} -Newest 20 | Format-Table TimeGenerated, EntryType, Message -AutoSize",
+        "description": "Shows event log entries",
+        "attributes": ["name"]
+    },
+    "clear_event_log": {
+        "command": "Clear-EventLog -LogName {name}",
+        "description": "Clears event log",
+        "attributes": ["name"]
+    },
+    "reg_query": {
+        "command": "Get-ItemProperty -Path \"{path}\"",
+        "description": "Queries registry key",
+        "attributes": ["path"]
+    },
+    "reg_set": {
+        "command": "Set-ItemProperty -Path \"{path}\" -Name \"{name}\" -Value \"{value}\"",
+        "description": "Sets registry value",
+        "attributes": ["path", "name", "value"]
+    },
+    "reg_delete": {
+        "command": "Remove-ItemProperty -Path \"{path}\" -Name \"{name}\"",
+        "description": "Deletes registry value",
+        "attributes": ["path", "name"]
+    },
+    "scheduled_tasks": {
+        "command": "Get-ScheduledTask | Where-Object {$_.State -eq 'Ready'} | Format-Table TaskName, State, TaskPath -AutoSize",
+        "description": "Lists scheduled tasks"
+    },
+    "task_create": {
+        "command": "Register-ScheduledTask -TaskName \"{name}\" -Action (New-ScheduledTaskAction -Execute \"{command}\") -Trigger (New-ScheduledTaskTrigger -Once -At (Get-Date).AddMinutes(1))",
+        "description": "Creates scheduled task",
+        "attributes": ["name", "command"]
+    },
+    "task_delete": {
+        "command": "Unregister-ScheduledTask -TaskName \"{name}\" -Confirm:$false",
+        "description": "Deletes scheduled task",
+        "attributes": ["name"]
+    },
+    "windows_features": {
+        "command": "Get-WindowsOptionalFeature -Online | Where-Object {$_.State -eq 'Enabled'} | Format-Table FeatureName -AutoSize",
+        "description": "Lists enabled Windows features"
+    },
+    "windows_update": {
+        "command": "Get-WindowsUpdate -AcceptAll -Install -AutoReboot",
+        "description": "Installs Windows updates (requires module)"
+    },
+    "system_restore": {
+        "command": "Start-Process rstrui.exe",
+        "description": "Opens System Restore"
+    },
+    "backup": {
+        "command": "Start-Process sdclt.exe",
+        "description": "Opens Backup and Restore"
+    },
+    "network_sharing": {
+        "command": "Start-Process control.exe /name Microsoft.NetworkAndSharingCenter",
+        "description": "Opens Network and Sharing Center"
+    },
+    "bluetooth": {
+        "command": "Start-Process ms-settings:bluetooth",
+        "description": "Opens Bluetooth settings"
+    },
+    "display_settings": {
+        "command": "Start-Process ms-settings:display",
+        "description": "Opens Display settings"
+    },
+    "sound_settings": {
+        "command": "Start-Process ms-settings:sound",
+        "description": "Opens Sound settings"
+    },
+    "privacy_settings": {
+        "command": "Start-Process ms-settings:privacy",
+        "description": "Opens Privacy settings"
+    },
+    "windows_update_settings": {
+        "command": "Start-Process ms-settings:windowsupdate",
+        "description": "Opens Windows Update settings"
+    },
+    "apps_settings": {
+        "command": "Start-Process ms-settings:appsfeatures",
+        "description": "Opens Apps & Features settings"
+    },
+    "personalization": {
+        "command": "Start-Process ms-settings:personalization",
+        "description": "Opens Personalization settings"
+    },
+    "accounts": {
+        "command": "Start-Process ms-settings:yourinfo",
+        "description": "Opens Account settings"
+    },
+    "time_settings": {
+        "command": "Start-Process ms-settings:dateandtime",
+        "description": "Opens Date & Time settings"
+    },
+    "region": {
+        "command": "Start-Process ms-settings:regionlanguage",
+        "description": "Opens Region & Language settings"
+    },
+    "devices": {
+        "command": "Start-Process ms-settings:devices",
+        "description": "Opens Devices settings"
+    },
+    "mouse": {
+        "command": "Start-Process ms-settings:mousetouchpad",
+        "description": "Opens Mouse settings"
+    },
+    "keyboard": {
+        "command": "Start-Process ms-settings:keyboard",
+        "description": "Opens Keyboard settings"
+    },
+    "wifi_settings": {
+        "command": "Start-Process ms-settings:network-wifi",
+        "description": "Opens WiFi settings"
+    },
+    "ethernet": {
+        "command": "Start-Process ms-settings:network-ethernet",
+        "description": "Opens Ethernet settings"
+    },
+    "vpn": {
+        "command": "Start-Process ms-settings:network-vpn",
+        "description": "Opens VPN settings"
+    },
+    "proxy": {
+        "command": "Start-Process ms-settings:network-proxy",
+        "description": "Opens Proxy settings"
+    },
+    "notifications": {
+        "command": "Start-Process ms-settings:notifications",
+        "description": "Opens Notifications settings"
+    },
+    "focus_assist": {
+        "command": "Start-Process ms-settings:quiethours",
+        "description": "Opens Focus Assist settings"
+    },
+    "power_settings": {
+        "command": "Start-Process ms-settings:powersleep",
+        "description": "Opens Power & Sleep settings"
+    },
+    "storage": {
+        "command": "Start-Process ms-settings:storagesense",
+        "description": "Opens Storage settings"
+    },
+    "tablet_mode": {
+        "command": "Start-Process ms-settings:tabletmode",
+        "description": "Opens Tablet Mode settings"
+    },
+    "multitasking": {
+        "command": "Start-Process ms-settings:multitasking",
+        "description": "Opens Multitasking settings"
+    },
+    "clipboard_settings": {
+        "command": "Start-Process ms-settings:clipboard",
+        "description": "Opens Clipboard settings"
+    },
+    "fonts": {
+        "command": "Start-Process ms-settings:fonts",
+        "description": "Opens Fonts settings"
+    },
+    "startup_apps": {
+        "command": "Start-Process ms-settings:startupapps",
+        "description": "Opens Startup apps settings"
+    },
+    "troubleshoot": {
+        "command": "Start-Process ms-settings:troubleshoot",
+        "description": "Opens Troubleshoot settings"
+    },
+    "recovery": {
+        "command": "Start-Process ms-settings:recovery",
+        "description": "Opens Recovery settings"
+    },
+    "activation": {
+        "command": "Start-Process ms-settings:activation",
+        "description": "Opens Activation settings"
+    },
+    "about": {
+        "command": "Start-Process ms-settings:about",
+        "description": "Opens About PC settings"
+    },
+    "chrome": {
+        "command": "Start-Process chrome.exe",
+        "description": "Opens Google Chrome"
+    },
+    "firefox": {
+        "command": "Start-Process firefox.exe",
+        "description": "Opens Mozilla Firefox"
+    },
+    "edge": {
+        "command": "Start-Process msedge.exe",
+        "description": "Opens Microsoft Edge"
+    },
+    "opera": {
+        "command": "Start-Process opera.exe",
+        "description": "Opens Opera browser"
+    },
+    "vscode": {
+        "command": "Start-Process code.exe",
+        "description": "Opens Visual Studio Code"
+    },
+    "explorer_refresh": {
+        "command": "Stop-Process -Name explorer -Force; Start-Process explorer.exe",
+        "description": "Restarts Windows Explorer"
+    },
+    "clear_temp": {
+        "command": "Remove-Item -Path $env:TEMP\\* -Recurse -Force -ErrorAction SilentlyContinue",
+        "description": "Clears Temp folder"
+    },
+    "clear_prefetch": {
+        "command": "Remove-Item -Path C:\\Windows\\Prefetch\\* -Force -ErrorAction SilentlyContinue",
+        "description": "Clears Prefetch folder (Admin)"
+    },
+    "windows_defender": {
+        "command": "Start-Process ms-settings:windowsdefender",
+        "description": "Opens Windows Security"
+    },
+    "defender_scan": {
+        "command": "Start-Process 'C:\\Program Files\\Windows Defender\\MpCmdRun.exe' -ArgumentList '-Scan -ScanType 1'",
+        "description": "Runs quick antivirus scan"
+    },
+    "defender_fullscan": {
+        "command": "Start-Process 'C:\\Program Files\\Windows Defender\\MpCmdRun.exe' -ArgumentList '-Scan -ScanType 2'",
+        "description": "Runs full antivirus scan"
+    },
+    "windows_security": {
+        "command": "Start-Process windowsdefender://threatsettings/",
+        "description": "Opens Windows Security settings"
+    },
+    "virus_protection": {
+        "command": "Start-Process ms-settings:virusthreatprotection",
+        "description": "Opens Virus & Threat Protection"
+    },
+    "account_protection": {
+        "command": "Start-Process ms-settings:accountprotection",
+        "description": "Opens Account Protection"
+    },
+    "firewall_settings": {
+        "command": "Start-Process ms-settings:network-firewall",
+        "description": "Opens Firewall settings"
+    },
+    "app_browser": {
+        "command": "Start-Process ms-settings:windowsdefender-appbrowser",
+        "description": "Opens App & Browser Control"
+    },
+    "device_security": {
+        "command": "Start-Process ms-settings:devicesecurity",
+        "description": "Opens Device Security"
+    },
+    "family_safety": {
+        "command": "Start-Process ms-settings:family",
+        "description": "Opens Family & Other Users"
+    },
+    "work_access": {
+        "command": "Start-Process ms-settings:workplace",
+        "description": "Opens Access Work or School"
+    },
+    "sync": {
+        "command": "Start-Process ms-settings:sync",
+        "description": "Opens Sync settings"
+    },
+    "phone": {
+        "command": "Start-Process ms-settings:mobile-devices",
+        "description": "Opens Phone settings"
+    },
+    "gaming": {
+        "command": "Start-Process ms-settings:gaming",
+        "description": "Opens Gaming settings"
+    },
+    "xbox": {
+        "command": "Start-Process ms-settings:gaming-xbox",
+        "description": "Opens Xbox settings"
+    },
+    "game_mode": {
+        "command": "Start-Process ms-settings:gaming-gamemode",
+        "description": "Opens Game Mode settings"
+    },
+    "game_bar": {
+        "command": "Start-Process ms-settings:gaming-gamebar",
+        "description": "Opens Xbox Game Bar settings"
+    },
+    "game_dvr": {
+        "command": "Start-Process ms-settings:gaming-gamedvr",
+        "description": "Opens Game DVR settings"
+    },
+    "cortana": {
+        "command": "Start-Process ms-settings:cortana",
+        "description": "Opens Cortana settings"
+    },
+    "search_settings": {
+        "command": "Start-Process ms-settings:search",
+        "description": "Opens Search settings"
+    },
+    "ease_of_access": {
+        "command": "Start-Process ms-settings:easeofaccess",
+        "description": "Opens Ease of Access settings"
+    },
+    "narrator": {
+        "command": "Start-Process ms-settings:easeofaccess-narrator",
+        "description": "Opens Narrator settings"
+    },
+    "magnifier": {
+        "command": "Start-Process ms-settings:easeofaccess-magnifier",
+        "description": "Opens Magnifier settings"
+    },
+    "color_filters": {
+        "command": "Start-Process ms-settings:easeofaccess-colorfilter",
+        "description": "Opens Color Filters settings"
+    },
+    "high_contrast": {
+        "command": "Start-Process ms-settings:easeofaccess-highcontrast",
+        "description": "Opens High Contrast settings"
+    },
+    "mouse_settings": {
+        "command": "Start-Process ms-settings:easeofaccess-mouse",
+        "description": "Opens Mouse Ease of Access"
+    },
+    "keyboard_settings": {
+        "command": "Start-Process ms-settings:easeofaccess-keyboard",
+        "description": "Opens Keyboard Ease of Access"
+    },
+    "speech": {
+        "command": "Start-Process ms-settings:speech",
+        "description": "Opens Speech settings"
+    },
+    "windows_hello": {
+        "command": "Start-Process ms-settings:signinoptions-launchfaceenrollment",
+        "description": "Opens Windows Hello Face setup"
+    },
+    "pin": {
+        "command": "Start-Process ms-settings:signinoptions-launchpinreset",
+        "description": "Opens PIN reset"
+    },
+    "password": {
+        "command": "Start-Process ms-settings:signinoptions",
+        "description": "Opens Sign-in options"
+    },
+    "dynamic_lock": {
+        "command": "Start-Process ms-settings:signinoptions-dynamiclock",
+        "description": "Opens Dynamic Lock settings"
+    },
+    "windows_insider": {
+        "command": "Start-Process ms-settings:windowsinsider",
+        "description": "Opens Windows Insider Program"
+    },
+    "delivery_optimization": {
+        "command": "Start-Process ms-settings:delivery-optimization",
+        "description": "Opens Delivery Optimization"
+    },
+    "for_developers": {
+        "command": "Start-Process ms-settings:developers",
+        "description": "Opens For Developers settings"
+    },
+    "windows_preview": {
+        "command": "Start-Process ms-settings:windowspreview",
+        "description": "Opens Windows Preview Builds"
+    },
+    "optional_features": {
+        "command": "Start-Process ms-settings:optionalfeatures",
+        "description": "Opens Optional Features"
+    },
+    "programs_features": {
+        "command": "Start-Process appwiz.cpl",
+        "description": "Opens Programs and Features"
+    },
+    "default_apps": {
+        "command": "Start-Process ms-settings:defaultapps",
+        "description": "Opens Default Apps settings"
+    },
+    "offline_maps": {
+        "command": "Start-Process ms-settings:maps",
+        "description": "Opens Offline Maps settings"
+    },
+    "apps_for_websites": {
+        "command": "Start-Process ms-settings:appsforwebsites",
+        "description": "Opens Apps for Websites"
+    },
+    "video_playback": {
+        "command": "Start-Process ms-settings:videoplayback",
+        "description": "Opens Video Playback settings"
+    },
+    "media_streaming": {
+        "command": "Start-Process ms-settings:mediasteaming",
+        "description": "Opens Media Streaming options"
+    },
+    "notifications_settings": {
+        "command": "Start-Process ms-settings:notifications",
+        "description": "Opens Notifications settings"
+    },
+    "focus_assist_settings": {
+        "command": "Start-Process ms-settings:quiethours",
+        "description": "Opens Focus Assist"
+    },
+    "power_advanced": {
+        "command": "Start-Process powercfg.cpl",
+        "description": "Opens Power Options"
+    },
+    "battery_saver": {
+        "command": "Start-Process ms-settings:batterysaver",
+        "description": "Opens Battery Saver settings"
+    },
+    "battery_usage": {
+        "command": "Start-Process ms-settings:batterysaver-usagedetails",
+        "description": "Opens Battery Usage details"
+    },
+    "display": {
+        "command": "Start-Process ms-settings:display",
+        "description": "Opens Display settings"
+    },
+    "sound": {
+        "command": "Start-Process ms-settings:sound",
+        "description": "Opens Sound settings"
+    },
+    "sound_advanced": {
+        "command": "Start-Process mmsys.cpl",
+        "description": "Opens Advanced Sound settings"
+    },
+    "mixer": {
+        "command": "Start-Process sndvol.exe",
+        "description": "Opens Volume Mixer"
+    },
+    "microphone": {
+        "command": "Start-Process ms-settings:sound-microphone",
+        "description": "Opens Microphone settings"
+    },
+    "camera": {
+        "command": "Start-Process ms-settings:privacy-webcam",
+        "description": "Opens Camera privacy settings"
+    },
+    "location": {
+        "command": "Start-Process ms-settings:privacy-location",
+        "description": "Opens Location privacy settings"
+    },
+    "background_apps": {
+        "command": "Start-Process ms-settings:privacy-backgroundapps",
+        "description": "Opens Background Apps settings"
+    },
+    "voice_activation": {
+        "command": "Start-Process ms-settings:privacy-voiceactivation",
+        "description": "Opens Voice Activation settings"
+    },
+    "diagnostics": {
+        "command": "Start-Process ms-settings:privacy-feedback",
+        "description": "Opens Diagnostics & Feedback"
+    },
+    "activity_history": {
+        "command": "Start-Process ms-settings:privacy-activityhistory",
+        "description": "Opens Activity History settings"
+    },
+    "find_my_device": {
+        "command": "Start-Process ms-settings:findmydevice",
+        "description": "Opens Find My Device"
+    },
+    "windows_security_settings": {
+        "command": "Start-Process ms-settings:windowsdefender",
+        "description": "Opens Windows Security"
+    },
+    "windows_update_history": {
+        "command": "Start-Process ms-settings:windowsupdate-history",
+        "description": "Opens Update History"
+    },
+    "advanced_options": {
+        "command": "Start-Process ms-settings:windowsupdate-options",
+        "description": "Opens Advanced Update Options"
+    },
+    "delivery_optimization_settings": {
+        "command": "Start-Process ms-settings:delivery-optimization",
+        "description": "Opens Delivery Optimization"
+    },
+    "windows_insider_settings": {
+        "command": "Start-Process ms-settings:windowsinsider",
+        "description": "Opens Windows Insider"
+    },
+    "troubleshoot_settings": {
+        "command": "Start-Process ms-settings:troubleshoot",
+        "description": "Opens Troubleshoot"
+    },
+    "recovery_settings": {
+        "command": "Start-Process ms-settings:recovery",
+        "description": "Opens Recovery"
+    },
+    "activation_settings": {
+        "command": "Start-Process ms-settings:activation",
+        "description": "Opens Activation"
+    },
+    "about_settings": {
+        "command": "Start-Process ms-settings:about",
+        "description": "Opens About PC"
+    },
+    "settings": {
+        "command": "Start-Process ms-settings:",
+        "description": "Opens Settings app"
+    },
+    "control_panel": {
+        "command": "Start-Process control.exe",
+        "description": "Opens Control Panel"
+    },
+    "taskbar_settings": {
+        "command": "Start-Process ms-settings:taskbar",
+        "description": "Opens Taskbar settings"
+    },
+    "start_menu": {
+        "command": "Start-Process ms-settings:startup",
+        "description": "Opens Start Menu settings"
+    },
+    "lock_screen": {
+        "command": "Start-Process ms-settings:lockscreen",
+        "description": "Opens Lock Screen settings"
+    },
+    "themes": {
+        "command": "Start-Process ms-settings:themes",
+        "description": "Opens Themes settings"
+    },
+    "colors": {
+        "command": "Start-Process ms-settings:colors",
+        "description": "Opens Colors settings"
+    },
+    "fonts_settings": {
+        "command": "Start-Process ms-settings:fonts",
+        "description": "Opens Fonts settings"
+    },
+    "background": {
+        "command": "Start-Process ms-settings:personalization-background",
+        "description": "Opens Background settings"
+    },
+    "lockscreen_settings": {
+        "command": "Start-Process ms-settings:lockscreen",
+        "description": "Opens Lock Screen"
+    },
+    "colors_settings": {
+        "command": "Start-Process ms-settings:colors",
+        "description": "Opens Colors"
+    },
+    "taskbar_settings_detailed": {
+        "command": "Start-Process ms-settings:taskbar",
+        "description": "Opens Taskbar"
+    },
+    "start_settings": {
+        "command": "Start-Process ms-settings:startup",
+        "description": "Opens Start"
+    },
+    "notification_settings": {
+        "command": "Start-Process ms-settings:notifications",
+        "description": "Opens Notifications"
+    },
+    "focus_settings": {
+        "command": "Start-Process ms-settings:quiethours",
+        "description": "Opens Focus Assist"
+    },
+    "power_settings_detailed": {
+        "command": "Start-Process ms-settings:powersleep",
+        "description": "Opens Power & Sleep"
+    },
+    "battery_settings": {
+        "command": "Start-Process ms-settings:batterysaver",
+        "description": "Opens Battery Saver"
+    },
+    "storage_settings": {
+        "command": "Start-Process ms-settings:storagesense",
+        "description": "Opens Storage"
+    },
+    "tablet_settings": {
+        "command": "Start-Process ms-settings:tabletmode",
+        "description": "Opens Tablet Mode"
+    },
+    "multitasking_settings": {
+        "command": "Start-Process ms-settings:multitasking",
+        "description": "Opens Multitasking"
+    },
+    "clipboard_settings_detailed": {
+        "command": "Start-Process ms-settings:clipboard",
+        "description": "Opens Clipboard"
+    },
+    "fonts_settings_detailed": {
+        "command": "Start-Process ms-settings:fonts",
+        "description": "Opens Fonts"
+    },
+    "startup_settings": {
+        "command": "Start-Process ms-settings:startupapps",
+        "description": "Opens Startup Apps"
+    },
+    "troubleshoot_settings_detailed": {
+        "command": "Start-Process ms-settings:troubleshoot",
+        "description": "Opens Troubleshoot"
+    },
+    "recovery_settings_detailed": {
+        "command": "Start-Process ms-settings:recovery",
+        "description": "Opens Recovery"
+    },
+    "activation_settings_detailed": {
+        "command": "Start-Process ms-settings:activation",
+        "description": "Opens Activation"
+    },
+    "about_settings_detailed": {
+        "command": "Start-Process ms-settings:about",
+        "description": "Opens About"
+    },
+    "settings_app": {
+        "command": "Start-Process ms-settings:",
+        "description": "Opens Settings"
+    },
+    "control_panel_detailed": {
+        "command": "Start-Process control.exe",
+        "description": "Opens Control Panel"
+    },
+    "taskbar": {
+        "command": "Start-Process ms-settings:taskbar",
+        "description": "Opens Taskbar"
+    },
+    "start_menu_settings": {
+        "command": "Start-Process ms-settings:startup",
+        "description": "Opens Start Menu"
+    },
+    "lock_screen_settings": {
+        "command": "Start-Process ms-settings:lockscreen",
+        "description": "Opens Lock Screen"
+    },
+    "themes_settings": {
+        "command": "Start-Process ms-settings:themes",
+        "description": "Opens Themes"
+    },
+    "colors_detailed": {
+        "command": "Start-Process ms-settings:colors",
+        "description": "Opens Colors"
+    },
+    "fonts_detailed": {
+        "command": "Start-Process ms-settings:fonts",
+        "description": "Opens Fonts"
+    },
+    "background_detailed": {
+        "command": "Start-Process ms-settings:personalization-background",
+        "description": "Opens Background"
+    },
+    "lockscreen_detailed": {
+        "command": "Start-Process ms-settings:lockscreen",
+        "description": "Opens Lock Screen"
+    },
+    "colors_app": {
+        "command": "Start-Process ms-settings:colors",
+        "description": "Opens Colors"
+    },
+    "taskbar_app": {
+        "command": "Start-Process ms-settings:taskbar",
+        "description": "Opens Taskbar"
+    },
+    "start_app": {
+        "command": "Start-Process ms-settings:startup",
+        "description": "Opens Start"
+    },
+    "notification_app": {
+        "command": "Start-Process ms-settings:notifications",
+        "description": "Opens Notifications"
+    },
+    "focus_app": {
+        "command": "Start-Process ms-settings:quiethours",
+        "description": "Opens Focus"
+    },
+    "power_app": {
+        "command": "Start-Process ms-settings:powersleep",
+        "description": "Opens Power"
+    },
+    "battery_app": {
+        "command": "Start-Process ms-settings:batterysaver",
+        "description": "Opens Battery"
+    },
+    "storage_app": {
+        "command": "Start-Process ms-settings:storagesense",
+        "description": "Opens Storage"
+    }
+}

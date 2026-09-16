@@ -1,0 +1,6 @@
+=== VITA COMMANDS ===
+
+notepad - Opens Notepad
+create {path} - Creates a folder
+file {host, count} - Opens file
+open {name or url} - Open a progeamm or URL

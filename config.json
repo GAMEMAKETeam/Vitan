@@ -1,0 +1,66 @@
+{
+    "ui": {
+        "alpha": 0.9,
+        "chromakey_color": "#155485",
+        "font_family": "Segoe UI",
+        "font_size_main": 16,
+        "font_size_hint": 14,
+        "font_size_output": 12,
+        "font_size_log": 11,
+        "default_hint": "List to see all commands. Help to get details. Ctrl+Alt+Q or enter quit/exit to quit.",
+        "volume": 0.5,
+        "min_width": "{}",
+        "min_height": "{}",
+        "max_hints": "{}",
+        "window_y": "{}"
+    },
+    "colors": {
+        "original": {
+            "entry_frame": "#1a5f9e",
+            "hint_border_frame": "#1a5f9e",
+            "hint_frame": "#0b365e",
+            "border": "#002035",
+            "text_main": "#00f7ff",
+            "text_match": "#00C3FF",
+            "text_placeholder": "#00b4e0",
+            "text_secondary": "#2D6283",
+            "drag_handle": "#00f7ff",
+            "drag_label": "#155485"
+        },
+        "green": {
+            "entry_frame": "#1f6b42",
+            "hint_border_frame": "#1f6b42",
+            "hint_frame": "#0d3d2a",
+            "border": "#003020",
+            "text_main": "#00ff88",
+            "text_match": "#00e676",
+            "text_placeholder": "#00c853",
+            "text_secondary": "#2d6b4a",
+            "drag_handle": "#00ff88",
+            "drag_label": "#1a5c3a"
+        },
+        "red": {
+            "entry_frame": "#5c1a1a",
+            "hint_border_frame": "#5c1a1a",
+            "hint_frame": "#3d0d0d",
+            "border": "#300000",
+            "text_main": "#ff4444",
+            "text_match": "#e60000",
+            "text_placeholder": "#c80000",
+            "text_secondary": "#6b2d2d",
+            "drag_handle": "#ff4444",
+            "drag_label": "#4a1515"
+        }
+    },
+    "sounds": {
+        "open": "open.wav",
+        "quit": "quit.wav",
+        "noth": "noth.wav",
+        "error": "error.wav",
+        "input": "input.wav",
+        "enter": "enter.wav",
+        "unknow_command": "unknow_command.wav",
+        "update_translator": "update_translator.wav",
+        "open_translator": "open_translator.wav"
+    }
+}

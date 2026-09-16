@@ -1,0 +1,219 @@
+{
+    "qwen": {
+        "url": "https://chat.qwen.ai"
+    },
+    "google": {
+        "url": "https://www.google.com/search?q={query}",
+        "attributes": ["query"]
+    },
+    "youtube": {
+        "url": "https://www.youtube.com/results?search_query={query}",
+        "attributes": ["query"]
+    },
+    "github": {
+        "url": "https://github.com/search?q={query}",
+        "attributes": ["query"]
+    },
+    "chatgpt": {
+        "url": "https://chat.openai.com"
+    },
+    "claude": {
+        "url": "https://claude.ai"
+    },
+    "gemini": {
+        "url": "https://gemini.google.com"
+    },
+    "perplexity": {
+        "url": "https://www.perplexity.ai"
+    },
+    "copilot": {
+        "url": "https://copilot.microsoft.com"
+    },
+    "twitter": {
+        "url": "https://twitter.com/search?q={query}",
+        "attributes": ["query"]
+    },
+    "x": {
+        "url": "https://x.com"
+    },
+    "reddit": {
+        "url": "https://www.reddit.com/search/?q={query}",
+        "attributes": ["query"]
+    },
+    "instagram": {
+        "url": "https://www.instagram.com"
+    },
+    "tiktok": {
+        "url": "https://www.tiktok.com/search?q={query}",
+        "attributes": ["query"]
+    },
+    "discord": {
+        "url": "https://discord.com/app"
+    },
+    "telegram": {
+        "url": "https://web.telegram.org"
+    },
+    "twitch": {
+        "url": "https://www.twitch.tv"
+    },
+    "netflix": {
+        "url": "https://www.netflix.com"
+    },
+    "stackoverflow": {
+        "url": "https://stackoverflow.com/search?q={query}",
+        "attributes": ["query"]
+    },
+    "npm": {
+        "url": "https://www.npmjs.com/search?q={query}",
+        "attributes": ["query"]
+    },
+    "pypi": {
+        "url": "https://pypi.org/search/?q={query}",
+        "attributes": ["query"]
+    },
+    "mdn": {
+        "url": "https://developer.mozilla.org/search?q={query}",
+        "attributes": ["query"]
+    },
+    "codepen": {
+        "url": "https://codepen.io"
+    },
+    "leetcode": {
+        "url": "https://leetcode.com"
+    },
+    "figma": {
+        "url": "https://www.figma.com"
+    },
+    "dribbble": {
+        "url": "https://dribbble.com/search/{query}",
+        "attributes": ["query"]
+    },
+    "behance": {
+        "url": "https://www.behance.net/search/projects?search={query}",
+        "attributes": ["query"]
+    },
+    "spotify": {
+        "url": "https://open.spotify.com/search/{query}",
+        "attributes": ["query"]
+    },
+    "soundcloud": {
+        "url": "https://soundcloud.com/search?q={query}",
+        "attributes": ["query"]
+    },
+    "hackernews": {
+        "url": "https://news.ycombinator.com"
+    },
+    "bbc": {
+        "url": "https://www.bbc.com/news"
+    },
+    "cnn": {
+        "url": "https://www.cnn.com"
+    },
+    "translate": {
+        "url": "https://translate.google.com/?sl=auto&tl=en&text={query}",
+        "attributes": ["query"]
+    },
+    "maps": {
+        "url": "https://www.google.com/maps/search/{query}",
+        "attributes": ["query"]
+    },
+    "drive": {
+        "url": "https://drive.google.com"
+    },
+    "amazon": {
+        "url": "https://www.amazon.com/s?k={query}",
+        "attributes": ["query"]
+    },
+    "ebay": {
+        "url": "https://www.ebay.com/sch/i.html?_nkw={query}",
+        "attributes": ["query"]
+    },
+    "imdb": {
+        "url": "https://www.imdb.com/find?q={query}",
+        "attributes": ["query"]
+    },
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Special:Search?search={query}",
+        "attributes": ["query"]
+    },
+    "gmail": {
+        "url": "https://mail.google.com"
+    },
+    "outlook": {
+        "url": "https://outlook.live.com"
+    },
+    "dropbox": {
+        "url": "https://www.dropbox.com"
+    },
+    "onedrive": {
+        "url": "https://onedrive.live.com"
+    },
+    "notion": {
+        "url": "https://www.notion.so"
+    },
+    "trello": {
+        "url": "https://trello.com"
+    },
+    "linkedin": {
+        "url": "https://www.linkedin.com/search/results/all/?keywords={query}",
+        "attributes": ["query"]
+    },
+    "facebook": {
+        "url": "https://www.facebook.com"
+    },
+    "pinterest": {
+        "url": "https://www.pinterest.com/search/pins/?q={query}",
+        "attributes": ["query"]
+    },
+    "duckduckgo": {
+        "url": "https://duckduckgo.com/?q={query}",
+        "attributes": ["query"]
+    },
+    "bing": {
+        "url": "https://www.bing.com/search?q={query}",
+        "attributes": ["query"]
+    },
+    "yandex": {
+        "url": "https://yandex.ru/search/?text={query}",
+        "attributes": ["query"]
+    },
+    "vk": {
+        "url": "https://vk.com"
+    },
+    "whatsapp": {
+        "url": "https://web.whatsapp.com"
+    },
+    "zoom": {
+        "url": "https://zoom.us"
+    },
+    "skype": {
+        "url": "https://web.skype.com"
+    },
+    "slack": {
+        "url": "https://slack.com"
+    },
+    "microsoft": {
+        "url": "https://www.microsoft.com"
+    },
+    "apple": {
+        "url": "https://www.apple.com"
+    },
+    "openai": {
+        "url": "https://openai.com"
+    },
+    "huggingface": {
+        "url": "https://huggingface.co"
+    },
+    "kaggle": {
+        "url": "https://www.kaggle.com"
+    },
+    "replit": {
+        "url": "https://replit.com"
+    },
+    "vercel": {
+        "url": "https://vercel.com"
+    },
+    "netlify": {
+        "url": "https://www.netlify.com"
+    }
+}
